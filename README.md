@@ -5,8 +5,9 @@
 
 Projeto construiído do evento Card Cup da Rockseat. Aula teórica e prática de como funciona o HTML, sobre TAGS e Elementos. Aplicação no CSS e epxlicação de alguns estilos e animações
 
-#Linguagens usadas.
 
--Html
--Css
--javaScript
+# Tecnologia Usadas
+
+- HTML
+- CSS
+- GIT E GITHUB
